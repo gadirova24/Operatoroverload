@@ -1,0 +1,15 @@
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/bin/Debug/net6.0/Operator_Overload
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/bin/Debug/net6.0/Operator_Overload.deps.json
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/bin/Debug/net6.0/Operator_Overload.runtimeconfig.json
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/bin/Debug/net6.0/Operator_Overload.dll
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/bin/Debug/net6.0/Operator_Overload.pdb
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.csproj.AssemblyReference.cache
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.AssemblyInfoInputs.cache
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.AssemblyInfo.cs
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.csproj.CoreCompileInputs.cache
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.dll
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/refint/Operator_Overload.dll
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.pdb
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/Operator_Overload.genruntimeconfig.cache
+/Users/nigar/Desktop/Operator_Overload/Operator_Overload/obj/Debug/net6.0/ref/Operator_Overload.dll
